@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This is a simple hello world app for C++ using JSON. We're using this amazing JSON library which is a single json.hpp header file.
+This is a simple hello world app for C++ using JSON. We're using this amazing JSON library by Niels Lohmann which is a single json.hpp header file.
 
 https://github.com/nlohmann/json
 
